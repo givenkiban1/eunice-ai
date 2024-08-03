@@ -64,7 +64,7 @@ conda activate eunice-ai
 
 In a seperate repo, we built a telephonic integration and implementation of Eunice AI , where customer conversations and transcribed and processed by Eunice before speaking back all through your phone ( this is show in the demo video too) !! 
 
-We are sharing this to also show the application of Euncie AI in different seetings `web application` ( as seen in this repo, which is our final submission) as well as in the following repo which has the `dialler/telephonic` integration. 
+We are sharing this to also show the application of Euncie AI in different seetings `web application` ( as seen in this repo)  as well as in the following repo which has the `dialler/telephonic` integration. 
 
 `eunice-ai-telephone repo:` https://github.com/eyespywmlileye/catalyst-labs-euniceAI-twilio 
 
