@@ -4,7 +4,9 @@
 
 Eunice AI is a customer support AI Agent developed by the Catalyst Labs team. Our aim is to provide effective and efficient support for customers through advanced AI technologies.
 
-Eunice AI is built to enable phone calls to have the same impact as websites, at a fraction of the cost. This is important for SMEs in the service industry which is saturated e.g plumbing , garderning. These businesses get majority of their business leads telephonically as customer tend to search "<name> near me contact details", and do not want to search for hours across multiple vendors to hire, they much prefer calling 10 numbers to get the best quote and informaiton. 
+Eunice AI is built to enable phone calls to have the same impact as websites, at a fraction of the cost. This is important for SMEs in the service industry which is saturated e.g plumbing , garderning. 
+
+These businesses get majority of their business leads telephonically as customer tend to search "<name> near me contact details", and do not want to search for hours across multiple vendors to hire, they much prefer calling 10 numbers to get the best quote and informaiton. 
 
 ## Access to live project 
 URL : https://170.64.163.218/app
@@ -50,8 +52,9 @@ conda activate eunice-ai
 4. Before you run the application, be sure to copy API Keys from `.env.example` and paste them in `.env` file with values in your root.
 
 5. On 2 different terminals, run each of the following application with these commands: :
-> Terminal 1: `python app.py` # Rest API
-> Terminal 2: `python app_socketio.py` # websocket
+- Terminal 1: `python app.py` # Rest API
+
+- Terminal 2: `python app_socketio.py` # websocket
 
 7. Finally, access the application in your web browser at `http://localhost:8080`.
    
@@ -61,7 +64,8 @@ conda activate eunice-ai
 In a seperate repo, we built a telephonic integration and implementation of Eunice AI , where customer conversations and transcribed and processed by Eunice before speaking back all through your phone ( this is show in the demo video too) !! 
 
 We are sharing this to also show the application of Euncie AI in different seetings `web application` ( as seen in this repo, which is our final submission) as well as in the following repo which has the `dialler/telephonic` integration. 
-eunice-ai-telephone repo: https://github.com/eyespywmlileye/catalyst-labs-euniceAI-twilio 
+
+`eunice-ai-telephone repo:` https://github.com/eyespywmlileye/catalyst-labs-euniceAI-twilio 
 
 ## Contributing
 
