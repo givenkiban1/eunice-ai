@@ -34,7 +34,7 @@ URL : https://170.64.163.218/app
 ## Installation
 
 1. Clone the repository:
-   `git clone `
+   `git clone https://github.com/givenkiban1/eunice-ai.git`
 
 2. Create virtual environment (Conda or Venv)
 ```
