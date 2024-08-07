@@ -9,7 +9,7 @@ Eunice AI is built to enable phone calls to have the same impact as websites, at
 These businesses get majority of their business leads telephonically as customer tend to search "<name> near me contact details", and do not want to search for hours across multiple vendors to hire, they much prefer calling 10 numbers to get the best quote and informaiton. 
 
 ## Access to live project 
-URL : https://170.64.163.218:8080
+URL : http://170.64.163.218:8080
 
 **Note** The url will only be live between Tuesday (6 Aug)  and Friday (9 Aug)
 
